@@ -58,4 +58,6 @@ I made 3 data models:
 
 Book model contains Many to One relation with Publisher model and Many to Many relation with Author model.
 
-Because of using SpringBoot as framework I used application.properties file for configuration application.
+Because of using SpringBoot as framework I used **application.properties** file for configuration application.
+
+Files **books_0.json and books_1.json** I put into [src/main/resources/jsonfiles](https://github.com/wadya/library/tree/master/src/main/resources/jsonfiles) folder
