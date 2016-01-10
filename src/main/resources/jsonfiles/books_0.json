@@ -1,0 +1,943 @@
+{
+ "kind": "books#volumes",
+ "totalItems": 611,
+ "items": [
+  {
+   "kind": "books#volume",
+   "id": "QCbUxHcYLskC",
+   "etag": "TmCNl+gQ7IM",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/QCbUxHcYLskC",
+   "volumeInfo": {
+    "title": "AndEngine for Android Game Development Cookbook",
+    "authors": [
+     "Jayme Schroeder"
+    ],
+    "publisher": "Packt Publishing Ltd",
+    "publishedDate": "2013-01-01",
+    "description": "A Cookbook with wide range of recipes to allow you to learn game development with AndEngine quickly and efficiently. \"AndEngine for Android Game Development Cookbook\" is geared toward developers who are interested in working with the most up-to-date version of AndEngine, sporting the brand new GLES 2.0 branch. The book will be helpful for developers who are attempting to break into the mobile game market with plans to release fun and exciting games while eliminating a large portion of the learning curve that is otherwise inevitable when getting into AndEngine development. This book requires a working installation of eclipse and the required libraries, including AndEngine and its various extensions set up prior to working with the recipes.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781849518994"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "1849518998"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 380,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 9,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.3.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=QCbUxHcYLskC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=QCbUxHcYLskC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "ru",
+    "previewLink": "http://books.google.pl/books?id=QCbUxHcYLskC&printsec=frontcover&dq=android&hl=&cd=1&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=QCbUxHcYLskC&dq=android&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/AndEngine_for_Android_Game_Development_C.html?hl=&id=QCbUxHcYLskC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 100.76,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 70.53,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=QCbUxHcYLskC&dq=android&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.0076E8,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 7.053E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true
+    },
+    "pdf": {
+     "isAvailable": true
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=QCbUxHcYLskC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This book requires a working installation of eclipse and the required libraries, including AndEngine and its various extensions set up prior to working with the recipes."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "X3w3D_Dv2lMC",
+   "etag": "Do3wODEw/L8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/X3w3D_Dv2lMC",
+   "volumeInfo": {
+    "title": "Android Apps Marketing",
+    "subtitle": "Secrets to Selling Your Android App",
+    "authors": [
+     "Jeffrey Hughes"
+    ],
+    "publisher": "Pearson Education",
+    "publishedDate": "2010-09-20",
+    "description": "The Easy, Complete, Step-by-Step Guide to Marketing Your Android Apps! There are huge profits to be made in selling Android apps! But with more than 70,000 apps now available, posting your app to the Android Market is no longer enough. You need to market your app effectively. Don’t know much about marketing? Don’t worry: This book gives you all the step-by-step help you’ll need. Top app marketing consultant Jeffrey Hughes walks you through building a winning marketing plan, crafting highly competitive apps, choosing your message, building buzz, and connecting with people who’ll actually buy your app. Packed with examples, this book makes Android apps marketing easy! You’ll learn how to Identify your app’s unique value, target audience, and total message Understand the Android Market’s dynamics Cut through clutter and get your app into the top selling categories Set the right price for your app and effectively sell its value Get reviewers to recommend your apps Write effective press releases Time your marketing and publicity for maximum effectiveness Blog about your app and get the attention of influential bloggers Use Facebook, Twitter, YouTube, and other social media to generate buzz Use promotions and cross-marketing just like professional marketers do Measure and improve your results with Android Analytics Generate a loyal audience that will buy your next app, too Earn steady revenue, build a brand, and make a real business out of app development",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_10",
+      "identifier": "0132378256"
+     },
+     {
+      "type": "ISBN_13",
+      "identifier": "9780132378253"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 304,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 3.5,
+    "ratingsCount": 10,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.6.5.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=X3w3D_Dv2lMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=X3w3D_Dv2lMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=X3w3D_Dv2lMC&printsec=frontcover&dq=android&hl=&cd=2&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=X3w3D_Dv2lMC&dq=android&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Android_Apps_Marketing.html?hl=&id=X3w3D_Dv2lMC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 69.44,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 47.22,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=X3w3D_Dv2lMC&dq=android&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.944E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.722E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": false
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=X3w3D_Dv2lMC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Packed with examples, this book makes Android apps marketing easy!"
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "pZ5iAgAAQBAJ",
+   "etag": "uGVBnKUNsjk",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/pZ5iAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Android. Receptury",
+    "authors": [
+     "Ian F. Darwin"
+    ],
+    "publisher": "Helion",
+    "publishedDate": "2013-03-29",
+    "description": "Książka, którą trzymasz w rękach, pomoże Ci odnieść sukces. Należy ona do ulubionej serii programistów \"Receptury\". Znajdziesz tu najlepsze przepisy na rozwiązanie typowych problemów. W trakcie lektury nauczysz się błyskawicznie konfigurować środowisko pracy, tworzyć kopie zapasowe danych aplikacji oraz testować Twoje dzieło. Ponadto sprawdzisz, jak komunikować się między procesami, tworzyć zaawansowaną grafikę oraz wyświetlać materiały multimedialne. Przekonasz się również, jak łatwo uzyskać informacje z odbiornika GPS, sterować diodą LED w urządzeniu oraz przygotować aplikację do dystrybucji i sprzedaży. Książka ta powinna trafić w ręce wszystkich pasjonatów systemu Android!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788324662722"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8324662723"
+     }
+    ],
+    "readingModes": {
+     "text": false,
+     "image": true
+    },
+    "pageCount": 616,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 5.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "0.3.0.0.preview.1",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=pZ5iAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=pZ5iAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pl",
+    "previewLink": "http://books.google.pl/books?id=pZ5iAgAAQBAJ&pg=PA61&dq=android&hl=&cd=3&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=pZ5iAgAAQBAJ&dq=android&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Android_Receptury.html?hl=&id=pZ5iAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 69.9,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 47.53,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=pZ5iAgAAQBAJ&dq=android&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.99E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.753E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": false
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Android_Receptury-sample-pdf.acsm?id=pZ5iAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=pZ5iAgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&lt;EditText \u003cb\u003eandroid\u003c/b\u003e: id=&quot;9+id/txtPeople&quot; \u003cb\u003eandroid\u003c/b\u003e:layout width=&quot;wrap content&quot; \u003cbr\u003e\n\u003cb\u003eandroid\u003c/b\u003e:layout height=&quot;wrap content&quot; \u003cb\u003eandroid\u003c/b\u003e: numeric=&quot;integer&quot; \u003cb\u003eandroid\u003c/b\u003e:layout \u003cbr\u003e\ncolumn=&quot;2&quot; \u003cb\u003eandroid\u003c/b\u003e:layout span=&quot;3&quot;/&gt; &lt;/TableRow&gt; &lt;-- Wiersz 3. Obejmuje tylko\u003cbr\u003e\n&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "JUVjAgAAQBAJ",
+   "etag": "Z+7FnTEZKUo",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/JUVjAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Android. Podstawy tworzenia aplikacji",
+    "authors": [
+     "Andrzej Stasiewicz"
+    ],
+    "publisher": "Helion",
+    "publishedDate": "2013-11-10",
+    "description": "Na szczęście dostępna jest już książka \"Android. Podstawy tworzenia aplikacji\", która bezboleśnie wprowadzi Cię w krainę programowania komputerów mobilnych pracujących pod kontrolą systemu firmy Google. Dzięki niej poznasz podstawy języka Java i budowę aplikacji działających w Androidzie. Nauczysz się posługiwać odpowiednimi narzędziami i pisać własne programy. Dowiesz się, jak korzystać z zasobów graficznych i funkcji systemowych. Zyskasz instrukcje, jak pobierać dane z sieci oraz uruchamiać nowe wątki.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788324688418"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8324688412"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 216,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "averageRating": 4.0,
+    "ratingsCount": 1,
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.4.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=JUVjAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=JUVjAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pl",
+    "previewLink": "http://books.google.pl/books?id=JUVjAgAAQBAJ&pg=PA159&dq=android&hl=&cd=4&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=JUVjAgAAQBAJ&dq=android&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Android_Podstawy_tworzenia_aplikacji.html?hl=&id=JUVjAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.99,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 21.75,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=JUVjAgAAQBAJ&dq=android&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.199E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.175E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Android_Podstawy_tworzenia_aplikacji-sample-epub.acsm?id=JUVjAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Android_Podstawy_tworzenia_aplikacji-sample-pdf.acsm?id=JUVjAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=JUVjAgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Andrzej Stasiewicz. Główny plik wyglądu, znajdujący się w folderach res/layout i \u003cbr\u003e\nprawdopodobnie mający nazwę activity_main.xml, powinien mieć mniej więcej \u003cbr\u003e\ntaką oto treść: \u003cb\u003eandroid\u003c/b\u003e:layout_alignParentLeft=&quot;true&quot;&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "WJ1iAgAAQBAJ",
+   "etag": "1R5X6YHnEzA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/WJ1iAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Optymalizacja wydajności aplikacji na Android",
+    "authors": [
+     "Herv Guihot"
+    ],
+    "publisher": "Helion",
+    "publishedDate": "2013-07-02",
+    "description": "Z tego podręcznika dowiesz się, jak dopracować aplikacje na Android; zapewnić ich stabilność, wydajność i szybkość działania. Zobaczysz, jak pisać aplikacje w Javie, C i obu tych językach z użyciem pakietów SDK i NDK Androida. W trakcie lektury odkryjesz, jak optymalizować kod oparty o OpenGL, jak zmniejszyć zużycie pamięci oraz zużycie baterii przez Twoją aplikację. Ponadto nauczysz się testować wydajność aplikacji oraz korzystać z nowości, jaką jest RenderScript. Po zapoznaniu się z tą książką staniesz się lepszym programistą i wzrośnie jakość Twoich aplikacji!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788324655588"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8324655581"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 256,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.4.3.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=WJ1iAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=WJ1iAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pl",
+    "previewLink": "http://books.google.pl/books?id=WJ1iAgAAQBAJ&pg=PT316&dq=android&hl=&cd=5&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=WJ1iAgAAQBAJ&dq=android&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Optymalizacja_wydajno%C5%9Bci_aplikacji_na_A.html?hl=&id=WJ1iAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.0,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 26.52,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=WJ1iAgAAQBAJ&dq=android&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.9E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.652E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Optymalizacja_wydajno%C5%9Bci_aplikacji_na_A-sample-epub.acsm?id=WJ1iAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Optymalizacja_wydajno%C5%9Bci_aplikacji_na_A-sample-pdf.acsm?id=WJ1iAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=WJ1iAgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Herv Guihot. &lt;TextView \u003cb\u003eandroid\u003c/b\u003e:id=&quot;@+id/text1&quot; \u003cb\u003eandroid\u003c/b\u003e:layout_width=&quot;\u003cbr\u003e\nwrap_content&quot; \u003cb\u003eandroid\u003c/b\u003e:layout_height=&quot;wrap_content&quot; \u003cb\u003eandroid\u003c/b\u003e:text=&quot;str1&quot; \u003cb\u003eandroid\u003c/b\u003e:\u003cbr\u003e\ntextAppearance=&quot;?\u003cb\u003eandroid\u003c/b\u003e:attr/textAppearanceLarge&quot; /&gt; &lt;TextView&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "W6vrklcPTegC",
+   "etag": "FX3ks3FbY5s",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/W6vrklcPTegC",
+   "volumeInfo": {
+    "title": "Pro Android 4",
+    "authors": [
+     "Satya Komatineni",
+     "Dave MacLean"
+    ],
+    "publisher": "Apress",
+    "publishedDate": "2012-03-05",
+    "description": "Pro Android 4 shows you how to build real-world and fun mobile apps using the new Android SDK 4 (Ice Cream Sandwich), which unifies Gingerbread for smartphones, Honeycomb for tablets and augments further with Google TV and more. This Android 4 book updates the best selling Pro Android 3 and covers everything from the fundamentals of building apps for embedded devices, smartphones, and tablets to advanced concepts such as custom 3D components, multi-tasking, sensors/augmented reality, better accessories support and much more. Using the tutorials and expert advice, you'll quickly be able to build cool mobile apps and run them on dozens of Android-based smartphones. You'll explore and use the Android APIs, including those for media and sensors. And you'll check out what's new with Android 4, including the improved user interface across all Android platforms, integration with services, and more. After reading this definitive tutorial and reference, you gain the knowledge and experience to create stunning, cutting-edge Android 4 apps that can make you money, while keeping you agile enough to respond to changes in the future. What you’ll learn How to use Android 4 to build Java-based mobile apps for Android smartphones and tablets How to build irresistible standard and custom User Interfaces and User Experiences (UI and UX) across Android devices How to populate your application with data from data sources, using Content Providers How to build multimedia and game apps using Android's media APIs How to use Android's location-based services, network-based services, and security How to use new Android features, such as Fragments and the ActionBar Who this book is for This book is for professional software engineers and programmers looking to move their ideas and applications into the mobile space with Android. It assumes a passable understanding of Java, including how to write classes and handle basic inheritance structures. Table of Contents Introducing the Android Computing Platform Setting up Your Development Environment Understanding Resources Understanding Content Providers Understanding Intents Building User Interfaces and Using Controls Adding Menus Fragments Dialogs: Regular and Fragment Action Bar Advanced Debugging and Analysis Responding to Configuration Changes Working with Preferences and Saving State Security and Permissions Working with Services Exploring Packages, Processes, and Library Projects Exploring Processes, Components, Threads, and Handlers Advanced Async Task Exploring Broadcast Receivers and Long Running Services Exploring the Alarm Manager Unveiling 2D Animation Exploring Maps and Location Services Using the Telephony APIs Understanding the Media Frameworks Home Screen Widgets Home Screen List Widgets Android Search User Experience Drag and Drop Using Sensors Understanding the Contacts API Deploying your Application: Android Market and Beyond",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9781430239314"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "143023931X"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 1020,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.3.3.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=W6vrklcPTegC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=W6vrklcPTegC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "en",
+    "previewLink": "http://books.google.pl/books?id=W6vrklcPTegC&printsec=frontcover&dq=android&hl=&cd=6&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=W6vrklcPTegC&dq=android&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Pro_Android_4.html?hl=&id=W6vrklcPTegC"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 162.31,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 113.62,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=W6vrklcPTegC&dq=android&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 1.6231E8,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 1.1362E8,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Pro_Android_4-sample-epub.acsm?id=W6vrklcPTegC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Pro_Android_4-sample-pdf.acsm?id=W6vrklcPTegC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=W6vrklcPTegC&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "This Android 4 book updates the best selling Pro Android 3 and covers everything from the fundamentals of building apps for embedded devices, smartphones, and tablets to advanced concepts such as custom 3D components, multi-tasking, ..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "HEJjAgAAQBAJ",
+   "etag": "hc288SJhaJA",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/HEJjAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Android UI. Podręcznik dla projektantów. Smashing Magazine",
+    "authors": [
+     "Juhani Lehtimaki"
+    ],
+    "publisher": "Helion",
+    "publishedDate": "2013-11-18",
+    "description": "Dzięki lekturze tej książki poznasz struktury aplikacji, mechanizm intencji oraz najlepsze techniki nawigowania wśród dostępnych opcji. Kolejne rozdziały poprowadzą Cię przez szczegóły projektowania komponentów interfejsu, stosowania ikon oraz używania efektów. Część trzecia kompendium poświęcona jest zarządzaniu zasobami Androida, skalowaniu oraz układom interfejsu. Na końcu będziesz miał szansę zapoznać się z najlepszymi wzorcami tworzenia aplikacji na tę platformę. Książka ta jest nieocenionym źródłem informacji na temat tworzenia przyjaznych i wydajnych aplikacji. Musisz ją przeczytać!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788324668625"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8324668624"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 400,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "2.5.4.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=HEJjAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=HEJjAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pl",
+    "previewLink": "http://books.google.pl/books?id=HEJjAgAAQBAJ&pg=PT235&dq=android&hl=&cd=7&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=HEJjAgAAQBAJ&dq=android&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Android_UI_Podr%C4%99cznik_dla_projektant%C3%B3w.html?hl=&id=HEJjAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 54.99,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 37.39,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=HEJjAgAAQBAJ&dq=android&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 5.499E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 3.739E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Android_UI_Podr%C4%99cznik_dla_projektant%C3%B3w-sample-epub.acsm?id=HEJjAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Android_UI_Podr%C4%99cznik_dla_projektant%C3%B3w-sample-pdf.acsm?id=HEJjAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=HEJjAgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&lt;RelativeLayout xmlns: \u003cb\u003eandroid\u003c/b\u003e=&quot;http://schemas.\u003cb\u003eandroid\u003c/b\u003e.com/apk/res/\u003cb\u003eandroid\u003c/b\u003e&quot; \u003cbr\u003e\n\u003cb\u003eandroid\u003c/b\u003e:layout_width=&quot;fill_parent&quot; \u003cb\u003eandroid\u003c/b\u003e:layout_height=&quot;fill_parent&quot; \u003cb\u003eandroid\u003c/b\u003e: \u003cbr\u003e\nOrientation=&quot;vertical&quot; &gt; &lt;Button \u003cb\u003eandroid\u003c/b\u003e:layout_width=&quot;wrap_content&quot;&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "koiKAgAAQBAJ",
+   "etag": "FYZz3hksjT8",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/koiKAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Inteligentny dom. Automatyzacja mieszkania za pomocą platformy Arduino, systemu Android i zwykłego komputera",
+    "authors": [
+     "Mike Riley"
+    ],
+    "publisher": "Helion",
+    "publishedDate": "2013-07-23",
+    "description": "Dzięki lekturze tej książki samodzielnie zbudujesz karmnik, który będzie publikował na Twitterze wpisy o przylatujących ptakach i konieczności uzupełnienia ziarna. Będziesz sterował oświetleniem wewnątrz i na zewnątrz domu za pomocą odpowiedniego programu. Zabezpieczysz swój dom przed nieproszonymi gośćmi. Stworzysz autonomiczny system podnoszenia i opuszczania zasłon zależnie od temperatury i natężenia światła w pokoju. Sprawisz, że Twój dom przemówi w momencie, gdy przyjdzie do Ciebie email lub odwiedzą Cię goście... Książka ta będzie niewyczerpanym źródłem inspiracji dla kolejnych innowacji w Twoim domu. Spróbuj tego, naprawdę warto!",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788324656783"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8324656782"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 296,
+    "printType": "BOOK",
+    "categories": [
+     "Technology & Engineering"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=koiKAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=koiKAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pl",
+    "previewLink": "http://books.google.pl/books?id=koiKAgAAQBAJ&pg=PT192&dq=android&hl=&cd=8&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=koiKAgAAQBAJ&dq=android&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Inteligentny_dom_Automatyzacja_mieszkani.html?hl=&id=koiKAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 39.0,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 26.52,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=koiKAgAAQBAJ&dq=android&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.9E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.652E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Inteligentny_dom_Automatyzacja_mieszkani-sample-epub.acsm?id=koiKAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Inteligentny_dom_Automatyzacja_mieszkani-sample-pdf.acsm?id=koiKAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=koiKAgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "Połączenie czterech odrębnych programów dla systemu \u003cb\u003eAndroid\u003c/b\u003e w jedną \u003cbr\u003e\naplikację umożliwi nasłuchiwanie żądań przychodzących protokołu HTTP, \u003cbr\u003e\nodblokowywanie elektrycznego rygla za pośrednictwem płytki IOIO, robienie \u003cbr\u003e\nzdjęć za&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "vlNjAgAAQBAJ",
+   "etag": "Lp5ACdHpxfw",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/vlNjAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Profesjonalne tworzenie gier internetowych dla systemu Android w językach HTML5, CSS3 i JavaScript",
+    "authors": [
+     "Juriy Bura",
+     "Paul Coates"
+    ],
+    "publisher": "Helion",
+    "publishedDate": "2013-11-14",
+    "description": "Dzięki tej książce rozwiniesz swoje umiejętności programistyczne! W trakcie lektury dowiesz się, jak najszybciej rozpocząć przygodę z grami dla platformy Android. W kolejnych rozdziałach nauczysz się korzystać z grafiki i animacji w przeglądarce, obsługiwać zdarzenia i operacje wykonywane przez użytkownika oraz stosować różne sposoby renderowania świata gry. Zbudujesz też swój własny silnik izometryczny oraz wykorzystasz WebGL do stworzenia zaawansowanej grafiki 3D. Dodatkowo zdobędziesz wiedzę na temat programowania sztucznej inteligencji oraz zapewniania komunikacji aplikacji z serwerem.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788324674046"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8324674047"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 512,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.1.1.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=vlNjAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=vlNjAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pl",
+    "previewLink": "http://books.google.pl/books?id=vlNjAgAAQBAJ&pg=PT526&dq=android&hl=&cd=9&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=vlNjAgAAQBAJ&dq=android&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Profesjonalne_tworzenie_gier_internetowy.html?hl=&id=vlNjAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 62.9,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 42.77,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=vlNjAgAAQBAJ&dq=android&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 6.29E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 4.277E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Profesjonalne_tworzenie_gier_internetowy-sample-epub.acsm?id=vlNjAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Profesjonalne_tworzenie_gier_internetowy-sample-pdf.acsm?id=vlNjAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=vlNjAgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "&lt;manifest xmlns:\u003cb\u003eandroid\u003c/b\u003e=&quot;http://schemas.\u003cb\u003eandroid\u003c/b\u003e.com/apk/res/\u003cb\u003eandroid\u003c/b\u003e&quot; package\u003cbr\u003e\n=&quot;com.juriy.fourballs&quot; \u003cb\u003eandroid\u003c/b\u003e:versionCode=&quot;1&quot; \u003cb\u003eandroid\u003c/b\u003e:versionName=&quot;1.0&quot;&gt; &lt;\u003cbr\u003e\nsupports-screens \u003cb\u003eandroid\u003c/b\u003e:largeScreens=&quot;true&quot; \u003cb\u003eandroid\u003c/b\u003e:normalScreens=&quot;true&quot;&nbsp;..."
+   }
+  },
+  {
+   "kind": "books#volume",
+   "id": "7J1iAgAAQBAJ",
+   "etag": "3C4xN4NbYw0",
+   "selfLink": "https://www.googleapis.com/books/v1/volumes/7J1iAgAAQBAJ",
+   "volumeInfo": {
+    "title": "Android. Programowanie gier na tablety",
+    "authors": [
+     "Jeremy Kerfs"
+    ],
+    "publisher": "Helion",
+    "publishedDate": "2012-12-05",
+    "description": "Dzięki niej poznasz wszystkie niuanse tworzenia gier na tablety pracujące pod kontrolą systemu Android. Na samym początku dowiesz się, jak przygotować środowisko pracy oraz jakich narzędzi i bibliotek będziesz potrzebować. Po krótkim wstępie przejdziesz do sedna sprawy. Nauczysz się wykorzystywać ekrany dotykowe, moc wielordzeniowych procesorów oraz informacje z czujników położenia. Ponadto poznasz tajniki tworzenia sztucznej inteligencji oraz mechanizmów dla wielu graczy. O sukcesie gry decyduje atrakcyjna oprawa dźwiękowa i wizualna, dlatego autor kładzie duży nacisk właśnie na te aspekty tworzenia gier. Na sam koniec sprawdzisz, jak opublikować grę w Google Play Store (dawniej Android Market). Jest to idealna pozycja dla każdego pasjonata systemu Android.",
+    "industryIdentifiers": [
+     {
+      "type": "ISBN_13",
+      "identifier": "9788324667642"
+     },
+     {
+      "type": "ISBN_10",
+      "identifier": "8324667644"
+     }
+    ],
+    "readingModes": {
+     "text": true,
+     "image": true
+    },
+    "pageCount": 192,
+    "printType": "BOOK",
+    "categories": [
+     "Computers"
+    ],
+    "maturityRating": "NOT_MATURE",
+    "allowAnonLogging": false,
+    "contentVersion": "1.3.2.0.preview.3",
+    "imageLinks": {
+     "smallThumbnail": "http://books.google.pl/books/content?id=7J1iAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+     "thumbnail": "http://books.google.pl/books/content?id=7J1iAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    "language": "pl",
+    "previewLink": "http://books.google.pl/books?id=7J1iAgAAQBAJ&pg=PT239&dq=android&hl=&cd=10&source=gbs_api",
+    "infoLink": "http://books.google.pl/books?id=7J1iAgAAQBAJ&dq=android&hl=&source=gbs_api",
+    "canonicalVolumeLink": "http://books.google.pl/books/about/Android_Programowanie_gier_na_tablety.html?hl=&id=7J1iAgAAQBAJ"
+   },
+   "saleInfo": {
+    "country": "PL",
+    "saleability": "FOR_SALE",
+    "isEbook": true,
+    "listPrice": {
+     "amount": 31.99,
+     "currencyCode": "PLN"
+    },
+    "retailPrice": {
+     "amount": 21.75,
+     "currencyCode": "PLN"
+    },
+    "buyLink": "http://books.google.pl/books?id=7J1iAgAAQBAJ&dq=android&hl=&buy=&source=gbs_api",
+    "offers": [
+     {
+      "finskyOfferType": 1,
+      "listPrice": {
+       "amountInMicros": 3.199E7,
+       "currencyCode": "PLN"
+      },
+      "retailPrice": {
+       "amountInMicros": 2.175E7,
+       "currencyCode": "PLN"
+      }
+     }
+    ]
+   },
+   "accessInfo": {
+    "country": "PL",
+    "viewability": "PARTIAL",
+    "embeddable": true,
+    "publicDomain": false,
+    "textToSpeechPermission": "ALLOWED",
+    "epub": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Android_Programowanie_gier_na_tablety-sample-epub.acsm?id=7J1iAgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "pdf": {
+     "isAvailable": true,
+     "acsTokenLink": "http://books.google.pl/books/download/Android_Programowanie_gier_na_tablety-sample-pdf.acsm?id=7J1iAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+    },
+    "webReaderLink": "http://books.google.pl/books/reader?id=7J1iAgAAQBAJ&hl=&printsec=frontcover&output=reader&source=gbs_api",
+    "accessViewStatus": "SAMPLE",
+    "quoteSharingAllowed": false
+   },
+   "searchInfo": {
+    "textSnippet": "... encoding=&quot;utf-8&quot;?&gt; &lt;AbsoluteLayout xmlns:\u003cb\u003eandroid\u003c/b\u003e=&quot;http://schemas.\u003cb\u003eandroid\u003c/b\u003e.\u003cbr\u003e\ncom/apk/res/\u003cb\u003eandroid\u003c/b\u003e&quot; \u003cb\u003eandroid\u003c/b\u003e:orientation=&quot;vertical&quot; \u003cb\u003eandroid\u003c/b\u003e:layout_width=&quot;\u003cbr\u003e\nfill_parent&quot; \u003cb\u003eandroid\u003c/b\u003e:layout_height=&quot;fill_parent&quot; &gt; &lt;Button \u003cb\u003eandroid\u003c/b\u003e:text=&quot;\u003cbr\u003e\nRozpocznij grę&quot;&nbsp;..."
+   }
+  }
+ ]
+}
+
