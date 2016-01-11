@@ -1,6 +1,6 @@
 package com.test.service
-
 import com.google.gson.Gson
+import com.google.gson.JsonParseException
 import com.google.gson.reflect.TypeToken
 import com.test.model.Author
 import com.test.model.Book
@@ -12,13 +12,12 @@ import org.springframework.core.env.Environment
 import org.springframework.stereotype.Service
 
 import java.text.ParseException
-
 /**
  * Created by Vadym Polishchuk on 1/10/16.
  * wadyasha@gmail.com
  */
 @Service
-class Import {
+class ImportBooks {
 
 	@Autowired
 	private AuthorService authorService
@@ -42,19 +41,25 @@ class Import {
 		Collection<Book> importedBooks = new ArrayList<>()
 		Integer initialBookSize = bookService.findAll().size()
 		String defaultImportDirectory = env.getProperty("app.defaultImportDirectory");
-		Map<String,Object> items
+		Map<String, Object> items
 		try {
 			items = new Gson().fromJson(new FileReader("${defaultImportDirectory}${filename}"),
 					new TypeToken<HashMap<String, Object>>() {}.getType())
-		} catch (FileNotFoundException ignored) {
-			logger.warn("File ${filename} not found in directory src/main/resources/jsonfiles/, import - impossible!")
+		} catch (FileNotFoundException e) {
+			logger.error("File ${filename} not found in directory ${defaultImportDirectory}, import - impossible!")
+			return
+		} catch (JsonParseException jpe) {
+			logger.error("File ${filename} can't be parsed, structure of JSON maybe broken, import - impossible!")
+		}
+		if (!items) {
+			logger.error("Section 'items' not found in ${filename}! JSON file maybe broken, import - impossible!")
 			return
 		}
-		items?.get("items")?.each { item ->
+		items.get("items").each { item ->
 			Set<Author> authors = new HashSet<>()
 			def bookInfo = item?.volumeInfo
-			if(!bookInfo) {
-				logger.warn("can't find volumeInfo section in json structure, import - impossible!")
+			if (!bookInfo) {
+				logger.error("can't find volumeInfo section in json structure, import - impossible!")
 				return
 			} else {
 				bookInfo?.authors?.each { authorName ->
@@ -91,7 +96,7 @@ class Import {
 							try {
 								publishedDate = Date.parse("yyyy", bookInfo?.publishedDate)
 							} catch (ParseException eee) {
-								logger.error("unknown date format in publishedDate field")
+								logger.warn("unknown date format in 'publishedDate' field, publishedDate not parsed!")
 							}
 						}
 					}
@@ -114,7 +119,7 @@ class Import {
 		logger.info("==============================================================")
 		logger.info("initial books count - ${initialBookSize}")
 		logger.info("skipped books count - ${skippedBooks.size()}")
-		if(skippedBooks.size()>0) {
+		if (skippedBooks.size() > 0) {
 			logger.info("skipped books list:")
 			skippedBooks.each { logger.info("	${it.getTitle()}") }
 		}
