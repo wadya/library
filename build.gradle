@@ -6,14 +6,13 @@ buildscript {
 		mavenCentral()
 	}
 	dependencies {
-		classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}") 
+		classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
 	}
 }
 
 apply plugin: 'groovy'
-apply plugin: 'eclipse'
 apply plugin: 'idea'
-apply plugin: 'spring-boot' 
+apply plugin: 'spring-boot'
 
 jar {
 	baseName = 'library'
@@ -32,16 +31,8 @@ dependencies {
 	compile('org.codehaus.groovy:groovy')
 	compile('com.google.code.gson:gson:2.2.4')
 	runtime('org.hsqldb:hsqldb')
-	testCompile('org.springframework.boot:spring-boot-starter-test') 
+	testCompile('org.springframework.boot:spring-boot-starter-test')
 }
-
-
-//eclipse {
-//	classpath {
-//		 containers.remove('org.eclipse.jdt.launching.JRE_CONTAINER')
-//		 containers 'org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8'
-//	}
-//}
 
 task wrapper(type: Wrapper) {
 	gradleVersion = '2.9'
